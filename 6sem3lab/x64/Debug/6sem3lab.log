@@ -1,0 +1,14 @@
+﻿  6sem3lab.cpp
+C:\Users\User\source\repos\6sem3lab\6sem3lab\MTF.h(12,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\bwt.h(17,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(46,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(50,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(60,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(61,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(65,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\AC.h(18,7): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\User\source\repos\6sem3lab\6sem3lab\Huffman.h(33,7): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\User\source\repos\6sem3lab\6sem3lab\6sem3lab.cpp(13,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\6sem3lab.cpp(13,22): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\User\source\repos\6sem3lab\6sem3lab\LZ78.h(195): warning C4715: LZ78::lz78: значение возвращается не при всех путях выполнения
+  6sem3lab.vcxproj -> C:\Users\User\source\repos\6sem3lab\x64\Debug\6sem3lab.exe
